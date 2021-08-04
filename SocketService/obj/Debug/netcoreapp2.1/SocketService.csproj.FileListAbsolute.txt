@@ -1,0 +1,11 @@
+C:\Users\Jimmy\source\repos\SocketService\SocketService\bin\Debug\netcoreapp2.1\SocketService.deps.json
+C:\Users\Jimmy\source\repos\SocketService\SocketService\bin\Debug\netcoreapp2.1\SocketService.runtimeconfig.json
+C:\Users\Jimmy\source\repos\SocketService\SocketService\bin\Debug\netcoreapp2.1\SocketService.runtimeconfig.dev.json
+C:\Users\Jimmy\source\repos\SocketService\SocketService\bin\Debug\netcoreapp2.1\SocketService.dll
+C:\Users\Jimmy\source\repos\SocketService\SocketService\bin\Debug\netcoreapp2.1\SocketService.pdb
+C:\Users\Jimmy\source\repos\SocketService\SocketService\obj\Debug\netcoreapp2.1\SocketService.csprojAssemblyReference.cache
+C:\Users\Jimmy\source\repos\SocketService\SocketService\obj\Debug\netcoreapp2.1\SocketService.csproj.CoreCompileInputs.cache
+C:\Users\Jimmy\source\repos\SocketService\SocketService\obj\Debug\netcoreapp2.1\SocketService.AssemblyInfoInputs.cache
+C:\Users\Jimmy\source\repos\SocketService\SocketService\obj\Debug\netcoreapp2.1\SocketService.AssemblyInfo.cs
+C:\Users\Jimmy\source\repos\SocketService\SocketService\obj\Debug\netcoreapp2.1\SocketService.dll
+C:\Users\Jimmy\source\repos\SocketService\SocketService\obj\Debug\netcoreapp2.1\SocketService.pdb
